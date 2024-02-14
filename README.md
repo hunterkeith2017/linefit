@@ -19,7 +19,7 @@ Option B: Clone this repo and run following to build:
 ```bash
 cmake -B build && cmake --build build
 pip install .
-python3 -c 'import linefit; print(linefit.__version__)'
+python3 -c 'import linefit; print("success")'
 ```
 
 
