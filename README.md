@@ -5,7 +5,7 @@ linefit is a ground segmentation algorithm for 3D point clouds. This repo we set
 
 Author: C++ code from [Lorenz Wellhausen](https://github.com/lorenwel), nanobind by [Qingwen Zhang](https://kin-zhang.github.io/).
 
-Running on macOS, Windows and Linux, with Python Version >= 3.8.
+<!-- Running on macOS, Windows and Linux, with Python Version >= 3.8. -->
 
 Available in: <a href="https://github.com/Kin-Zhang/linefit"><img src="https://img.shields.io/badge/Windows-0078D6?st&logo=windows&logoColor=white" /> <a href="https://github.com/Kin-Zhang/linefit"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />  <a href="https://github.com/Kin-Zhang/linefit"><img src="https://img.shields.io/badge/mac%20os-000000?&logo=apple&logoColor=white" /> </a>
 
